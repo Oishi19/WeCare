@@ -1,6 +1,6 @@
 # WeCare Mental Health App
 
-WeCare is a mobile application designed to promote mental well-being and provide support for college students in India. The app offers various features to help users manage their mental health effectively. [App Overview](https://www.linkedin.com/feed/update/urn:li:activity:7074994769394888704/)
+WeCare is a mobile application designed to promote mental well-being and provide support for college students in India. The app offers various features to help users manage their mental health effectively. [App Overview](https://drive.google.com/file/d/1Y7kpzIfrscKJ102kXoCW9wIjAa4y5I8Q/view)
 
 ## Features
 
